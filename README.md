@@ -7,3 +7,5 @@
 ### Profit by Year and Month
 ### Profit by Country
 ### Sales by Product and Segment
+
+<a>"C:\Users\krish\Downloads\Screenshot 2025-03-28 140208.png"</a>
